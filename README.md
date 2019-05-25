@@ -18,3 +18,6 @@ Dan JSON Juga Memiliki 2 Fungsi yaitu:
 
 Cara Menggunakan JSON:
 untuk membuat output JSON di PHP cukup Mudah (Bagi Ane masih agak susah). Caranya... Kita tinggal membuat Variable Array yang memiliki key dan value, dan di encode dengan json_encode. setelah itu baru di print echo agar keluar sebagai output.
+
+CATATAN
+saya mengerjakan di broland c++
