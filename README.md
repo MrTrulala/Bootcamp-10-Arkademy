@@ -16,8 +16,6 @@ Dan JSON Juga Memiliki 2 Fungsi yaitu:
 1. json_encode : untuk mengubah array ke bentuk JSON
 2. json_decode : untuk merngubah JSON ke bentuk array
 
-Cara Menggunakan JSON:
-untuk membuat output JSON di PHP cukup Mudah (Bagi Ane masih agak susah). Caranya... Kita tinggal membuat Variable Array yang memiliki key dan value, dan di encode dengan json_encode. setelah itu baru di print echo agar keluar sebagai output.
 
 CATATAN
 saya mengerjakan di broland c++
